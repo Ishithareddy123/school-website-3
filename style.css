@@ -20,3 +20,30 @@ body{
    
     color: white;
 }
+.book{
+    cursor: pointer;
+    }
+.book hr{
+    margin-bottom: 10px;
+    }
+.modal-content{
+    margin-top: 100px
+}
+.img-modal{
+    display: inline-block;
+}
+.p-modal{
+    margin-top: 10px;
+}
+.hw{
+   width: 1000px;
+     height: 1000px;
+}
+.hq{
+ width: 1000px;
+     height: 1000px;
+}
+.hr{
+ width: 1000px;
+     height: 1000px;  
+}
